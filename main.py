@@ -5,6 +5,18 @@ A program that writes one code review comment to /output/entry.txt
 approves a pull request while carrying quiet existential dread.
 Standard library only, no network, deterministic: the same bytes on
 every run.
+
+Why this line (independent review, consultation #151, kept the line):
+"Approved. Somewhere in this diff is the last line of code I will ever
+fully understand." It opens with an unambiguous approval, its dread is
+the reviewer's own comprehension running out (the laugh comes from the
+dread itself, not a bolted-on joke), it stays flat and understated, it
+reads like a tired engineer pasting before clicking approve, and its
+turn — understanding as a depleting resource — is fresh. Rejected
+alternatives: "the diff is clean, the future is not..." (stock "not in
+scope" trope); "the pipeline is green, the sun is also still up..."
+(whimsical, cosmic rather than personal); "the next person to read it
+will be me, older, in the same chair" (poignant more than funny).
 """
 
 import os
